@@ -1,0 +1,14 @@
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.csproj.AssemblyReference.cache
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.AssemblyInfoInputs.cache
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.AssemblyInfo.cs
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.csproj.CoreCompileInputs.cache
+D:\Development\Projects\bas_examplemod\bas_examplemod\bin\Debug\netstandard2.0\bas_examplemod.deps.json
+D:\Development\Projects\bas_examplemod\bas_examplemod\bin\Debug\netstandard2.0\bas_examplemod.dll
+D:\Development\Projects\bas_examplemod\bas_examplemod\bin\Debug\netstandard2.0\bas_examplemod.pdb
+D:\Development\Projects\bas_examplemod\bas_examplemod\bin\Debug\netstandard2.0\ThunderRoad.dll
+D:\Development\Projects\bas_examplemod\bas_examplemod\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+D:\Development\Projects\bas_examplemod\bas_examplemod\bin\Debug\netstandard2.0\UnityEngine.dll
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.csproj.CopyComplete
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.dll
+D:\Development\Projects\bas_examplemod\bas_examplemod\obj\Debug\netstandard2.0\bas_examplemod.pdb
